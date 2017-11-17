@@ -1,0 +1,4 @@
+HOW TO USE JSG IP LOCATOR??
+------------------------------------------------------------
+-->>First Move The "JSGIPLOCATOR.dat" File To "C:\" Drive.
+-->>Then Enjoy JSGIPLOCATOR.jar By Double Click On It.
